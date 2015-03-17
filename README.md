@@ -1,8 +1,7 @@
-# more-jquery.js by [4real](http://4real.io)
-
 Don't have enough jquery in your project?
 Not sure what jquery function to call?  
-####This plugin will call every possible jquery function on an element
+
+#This plugin will call every possible jquery function on an element
 
 ## Getting started
 
