@@ -1,4 +1,4 @@
-### more-jquery.js - when you don't have enough jquery...
+### more-jquery.js by [4real]http://4real.io - when you don't have enough jquery...
 
 ## This plugin will call every possible jquery function on an element
 
@@ -28,9 +28,8 @@ $('element').moreJquery({
 
 
 ## Examples
-* [alertify.js 0.3](http://fabien-d.github.com/alertify.js/) - Stable version
-* [alertify.js 0.4](http://fabien-d.github.com/alertify.js/0.4.0rc1) - (Deprecated)
-* alertify.js 0.5 - Development version
+
+http://balasan.github.io/more-jquery/example.html
 
 ## Credit where credit is due
 
