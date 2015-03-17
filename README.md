@@ -2,7 +2,7 @@
 
 Don't have enough jquery in your project?  
 Not sure what jquery function to call?    
-more-jquery.js might be fore you!  
+more-jquery.js might be for you!  
 
 ## Getting started
 
