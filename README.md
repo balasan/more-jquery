@@ -1,7 +1,8 @@
-Don't have enough jquery in your project?
-Not sure what jquery function to call?  
+#This plugin will call every single jquery function for you
 
-#This plugin will call every possible jquery function on an element
+Don't have enough jquery in your project?  
+Not sure what jquery function to call?    
+more-jquery.js might be fore you!  
 
 ## Getting started
 
@@ -39,3 +40,5 @@ See all list of [contributors](https://github.com/balasan/more-jquery.js/contrib
 ## License
 
 more-jquery.js is licensed under MIT http://www.opensource.org/licenses/MIT
+
+## Made by [4real](http://4real.io) 
